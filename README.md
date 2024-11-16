@@ -126,5 +126,3 @@ The project uses the following key Node.js modules:
 4. All sensitive operations are secured using role-based JWT authentication.
 
 ---
-
-This documentation provides an overview of the project's architecture, features, and functionality. Let me know if you'd like further details on any specific section!
